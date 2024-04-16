@@ -44,4 +44,5 @@
     <img alt="langs stats" style="height: auto; width: 37%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aver77&theme=blue-green&langs_count=8&layout=compact" />
 </div>
 <br/>
-**Thank you for spending a moment on my profile. I wish you all the best!** 🙏
+
+**Thank you for spending a moment on my profile. I wish you all the best! 🙏**
