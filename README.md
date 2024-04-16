@@ -43,7 +43,6 @@
     &nbsp; &nbsp;
     <img alt="langs stats" style="height: auto; width: 37%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aver77&theme=blue-green&langs_count=8&layout=compact" />
 </div>
-<div>
-    &nbsp;
+<div class="mt1">
     <img alt="thank you" src="https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge"/>
 </div>
