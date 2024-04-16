@@ -9,7 +9,10 @@
 - 📈 **I am highly product-oriented and willing to do whatever it takes to ensure the success of the product.**
 - 💡 **I immerse myself in projects quickly, delivering value to the business, offering tangible contributions and ideas, all while maintaining a customer-centric mindset.**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p align="center">Languages and Tools:</p>
+<p>
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</p>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aver77)](https://github.com/anuraghazra/github-readme-stats)
