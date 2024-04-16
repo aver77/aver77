@@ -38,17 +38,13 @@
     <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-[![Card](https://github-readme-stats.vercel.app/api?username=aver77&show_icons=true&theme=blue-green)
-[![Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aver77&theme=blue-green&langs_count=8&layout=compact)
-
-[//]: # (    <img alt="commits stats" style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=aver77&show_icons=true&theme=blue-green" />)
-
-[//]: # (    &nbsp;)
-
-[//]: # (    &nbsp;)
-
-[//]: # (    <img alt="langs stats" style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aver77&theme=blue-green&langs_count=8&layout=compact" />)
-
-[//]: # (</div>)
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center">
+    <div style="height: 100%;">
+        <img alt="commits stats" style="height: 100%;" src="https://github-readme-stats.vercel.app/api?username=aver77&show_icons=true&theme=blue-green" />
+    </div>
+    <div style="height: 100%;">
+        <img alt="langs stats" style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aver77&theme=blue-green&langs_count=8&layout=compact" />
+    </div>
+</div>
 
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
