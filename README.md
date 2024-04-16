@@ -40,10 +40,10 @@
 </p>
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center; flex-direction: row; flex-wrap: nowrap;">
     <div style="height: 100%;">
-        <img alt="commits stats" style="height: 100%;" src="https://github-readme-stats.vercel.app/api?username=aver77&show_icons=true&theme=blue-green" />
+        <img alt="commits stats" style="width: fit-content; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=aver77&show_icons=true&theme=blue-green" />
     </div>
     <div style="height: 100%;">
-        <img alt="langs stats" style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aver77&theme=blue-green&langs_count=8&layout=compact" />
+        <img alt="langs stats" style="width: fit-content; height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aver77&theme=blue-green&langs_count=8&layout=compact" />
     </div>
 </div>
 
