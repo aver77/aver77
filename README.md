@@ -38,7 +38,7 @@
     <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-<div style="display: flex; gap: 20px; justify-content: center; align-items: center">
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center; flex-direction: row;">
     <div style="height: 100%;">
         <img alt="commits stats" style="height: 100%;" src="https://github-readme-stats.vercel.app/api?username=aver77&show_icons=true&theme=blue-green" />
     </div>
