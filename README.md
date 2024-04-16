@@ -52,8 +52,9 @@
     <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aver77)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aver77)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+ <img style="height: 100%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=aver77" />
+ <img style="height: 100%" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aver77" />
+</div>
 
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
