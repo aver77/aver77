@@ -40,7 +40,7 @@
 </p>
 <div style="display: flex; align-items: stretch;">
     <img alt="commits stats" style="height: auto; width: 52%;" class="img" src="https://github-readme-stats.vercel.app/api?username=aver77&show_icons=true&theme=blue-green" />
-    &nbsp; &nbsp;
+    &nbsp; &nbsp; &nbsp;
     <img alt="langs stats" style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aver77&theme=blue-green&langs_count=8&layout=compact" />
 </div>
 
