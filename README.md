@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-naverockin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naverockin@gmail.com)](mailto:naverockin@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-MyPortfolio-ffd700?style=flat-square&link=https://naportfolio.space)](https://naportfolio.space)
 
-- 💻 **I am a constantly growing software craftsman with over 4 years of experience in Frontend development.**
+- 💻 **I am a constantly growing software craftsman with over 5 years of experience in Frontend development.**
 - 📈 **I am highly product-oriented and willing to do whatever it takes to ensure the success of the product.**
 - 💡 **I immerse myself in projects quickly, delivering value to the business, offering tangible contributions and ideas, all while maintaining a customer-centric mindset.**
 
