@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-NikitaAverochkin-0E76A8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikita-averochkin/)](https://www.linkedin.com/in/nikita-averochkin/)
 [![Telegram Badge](https://img.shields.io/badge/-NikitaNWB-229ED9?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/NikitaNWB)](https://t.me/NikitaNWB)
 [![Gmail Badge](https://img.shields.io/badge/-naverockin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naverockin@gmail.com)](mailto:naverockin@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-MyPortfolio-ffd700?style=flat-square&link=https://naportfolio.space)](https://naportfolio.space)
+[![Portfolio Badge](https://img.shields.io/badge/-MyPortfolio-ffd700?style=flat-square&link=https://naportfolio.space)](https://naportfolio.tech)
 
 - 💻 **I am a constantly growing software craftsman with over 5 years of experience in Frontend development.**
 - 📈 **I am highly product-oriented and willing to do whatever it takes to ensure the success of the product.**
