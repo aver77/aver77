@@ -41,12 +41,12 @@
     <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
     <img alt="commits stats" style="height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api?username=aver77&show_icons=true&theme=blue-green" />
     &nbsp;
     &nbsp;
     <img alt="langs stats" style="height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aver77&theme=blue-green&langs_count=8&layout=compact" />
-</div>
+</div> -->
 <br/>
 
 **Thank you for spending a moment on my profile. I wish you all the best! 🙏**
